@@ -10,6 +10,8 @@ body {
 .social-icons {
     display: flex;
     gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 /* Style all font awesome icons */
